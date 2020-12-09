@@ -2,7 +2,7 @@
 
 Task1.ipynb, Task2.ipynb 두개의 스크립트로 나뉘어져 있습니다.
 
-Task1.ipynb 스크립트가, postgreSql에 제공된 데이터를 입력하는 스크립트이며, 
+Task1.ipynb 스크립트는 postgreSql에 제공된 데이터를 입력하는 스크립트이며, 
 
 Task2.ipynb 스크립트는 Task2 과제에 사용된 스크립트 입니다.
 
