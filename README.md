@@ -12,6 +12,8 @@ Task1.ipynb에서 사용되는 라이브러리는 다음과 같습니다.
 
 pprint, tqdm, psycopg2, pandas, numpy, json 
 
+[https://user-images.githubusercontent.com/57933815/101634539-354c3d80-3a6c-11eb-9475-7ce686879493.png]
+
 위의 라이브러리 설치를 진행한 후, 코드내 첫번째 셀의 data_path를 csv 데이터 파일이 있는 디렉터리 경로로 설정하시면 됩니다.
 
 2번쨰 셀에서 postgreSql에 연결하기위한 옵션값 (user, password, dbname) 를 로컬 pg에 맞게끔 설정하시면 됩니다.
