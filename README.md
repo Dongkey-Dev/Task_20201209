@@ -2,7 +2,8 @@
 
 Task1.ipynb, Task2.ipynb 두개의 스크립트로 나뉘어져 있습니다.
 
-Task1.ipynb에서 사용되는 라이브러리는 아래와 같습니다.
+Task1.ipynb에서 사용되는 라이브러리는 다음과 같습니다.
+
 pprint, tqdm, psycopg2, pandas, numpy, json 
 
 #### Task1.ipynb
