@@ -15,8 +15,10 @@ pprint, tqdm, psycopg2, pandas, numpy, json
 ![temp](https://user-images.githubusercontent.com/57933815/101634539-354c3d80-3a6c-11eb-9475-7ce686879493.png)
 
 위의 라이브러리 설치를 진행한 후, 코드내 첫번째 셀의 data_path를 csv 데이터 파일이 있는 디렉터리 경로로 설정하시면 됩니다.
+(첨부된 이미지의 상단 네모박스)
 
 2번쨰 셀에서 postgreSql에 연결하기위한 옵션값 (user, password, dbname) 를 로컬 pg에 맞게끔 설정하시면 됩니다.
+(첨부된 이미지의 하단 네모박스)
 
 psql 연결이 되었다면, 코드를 실행할 모든 준비가 마쳤습니다.
 
